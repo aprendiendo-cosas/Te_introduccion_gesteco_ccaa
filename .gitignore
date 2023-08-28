@@ -1,5 +1,5 @@
 /preparacion
 /releases
 .DS_Store
-.Icon?
+Icon^M^M
 /videos_sesiones
