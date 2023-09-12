@@ -13,8 +13,9 @@
 
 
 
-## Objetivos de la sesión
+## Objetivos del acto docente
 
++ Explicitar los compromisos adquiridos por el profesor de la asignatura con los estudiantes y con la clase. 
 + Motivar a los alumnos para que estudien con ilusión esta asignatura. Está comprobado que la motivación promueve el aprendizaje profundo.
 + Contextualizar la asignatura en el grado de ciencias ambientales.
 + Identificar el punto de partida de la "clase" con relación a la idea de gestión de ecosistemas. 
@@ -28,17 +29,75 @@
 
 
 
-## Punto de partida
+## Cinco compromisos del profesor con los estudiantes y con la clase
 
-Comenzamos la asignatura con el  esquema que describe los objetivos que nos planteamos el curso pasado en la asignatura de *ecología*. La asignatura que nos ocupa este curso (*gestión de ecosistemas*) pone el foco en la segunda pregunta del esquema: ¿Cómo podemos usar los recursos de los ecosistemas de manera sostenible?
+Este cuatrimestre compartiremos muchas horas en clase y también en campo. Durante ese tiempo el profesor hablará mucho. Esto nos hace pensar que la docencia es un proceso unidireccional en el que el profesor o profesora transmite conocimientos a los estudiantes. Sin embargo, desde hace décadas sabemos que el aprendizaje no ocurre mediante una especie de misterioso "volcado" de saberes desde el profesor al estudiante. Gracias al avance de las neurociencias sabemos que el aprendizaje es más bien un acompañamiento en el que el profesor guía el aprendizaje de los estudiantes. Para que ese proceso sea realmente efectivo es necesario que el estudiante trabaje en una serie de tareas concretas. Además, es necesario que el profesor haga una serie de cosas. Debe de tener un conocimiento robusto de la materia impartida, debe de preparar actividades interesantes y retantes para los estudiantes, etc. Además (y de esto trata esta sección), ha de tener una actitud determinada con los individuos que forman parte de la clase. En esta sección describiré (hablando en primera persona a partir de ahora) las características principales de esa actitud. Las cinco claves que resumo a continuación no son una creación mía. Son una copia adaptada de [este](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1236382) artículo escrito por Aniceto Masferrer, profesor de la Universidad de Valencia. Antes de proceder a describir estas cinco claves, quiero indicar que para mí son compromisos que intentaré llevar a cabo. Si durante el curso veis que no los cumplo, agradeceré vuestra llamada de atención bien en persona o bien de forma anónima en [este](https://docs.google.com/forms/d/e/1FAIpQLSe4WzmqZG8daWWtHZFaWoKPCq2ZnzoVM74kqS0lzzPvF2xPjg/viewform?usp=sf_link) formulario. Vamos a ello:
 
 
 
-![ecologia](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/follow_up_ecologia.png)
+#### La ilusión y su contagio
+Me gusta la disciplina de la gestión de ecosistemas. Desde que tenía vuestra edad he intentado contribuir a esa idea con mi trabajo de investigación. Aunque creo que no he realizado grandes aportaciones, me sigue haciendo ilusión intentarlo. Me hace ilusión acompañaros en el proceso de aprendizaje de esta rama de la ciencia que también tiene una fuerte componente aplicada. 
+
+Dicho esto, sabemos que la ilusión es contagiosa [(Xiao-qiu Y. et al. 2023)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10105573/). Así que espero que todos terminéis el curso con más ganas de aprender sobre esta disciplina. Hay una razón importante para ello: se ha comprobado que cuando uno tiene ilusión por algo aprende más y mejor [(Jungert, T. et al, 2020)](https://www.tandfonline.com/doi/full/10.1080/00220671.2020.1806015). Y además, se lo pasa mejor :)
+
+
+
+#### ¿Para qué sirve todo esto?
+
+Seguramente esta será una de las preguntas que más frecuentemente os habéis hecho como estudiantes. A lo largo de vuestra experiencia como alumnos (casi 20 años), los profesores os han (hemos) bombardeado con cientos de conceptos, ideas, definiciones y otras cuestiones cuya utilidad es aparentemente nula. No es así. Todo lo que aprendemos es útil. Como mínimo (que no es poco) resulta útil para elevar nuestros pensamientos, para conocer mejor como funciona el mundo y para hacernos mejores personas. Sin embargo, esto no suele ser suficiente para satisfacer las necesidades de los estudiantes. No es agradable ni motivante estudiar realidades con significado opaco o desconocido.  
+
+Trataremos de evitar a toda costa esta situación a lo largo de la asignatura. En cada clase explicitaremos la utilidad de los conceptos descritos. En este caso lo tenemos relativamente fácil. La asignatura de "gestión de ecosistemas" es inherentemente aplicada y los conceptos estudiados son realmente útiles para mejorar la forma en la que los seres humanos nos relacionamos con el medio ambiente. 
+
+
+
+#### El profesor sabe más que vosotros, pero...
+
+Llevo más tiempo en este negocio (el de ser adulto) que vosotros. Así que, lógicamente sé más de gestión de ecosistemas que vosotros. Es obvio (o debería de serlo), pero está bien explicitarlo. Los estudiantes suelen avergonzarse de esta diferencia de conocimiento y por eso suelen ser tímidos en clase. Eso conduce a que la participación en las clases es mínima. Además, a veces soléis pensar que participar en clase es hacerle la pelota al profesor.
+
+Todo lo anterior es incorrecto. La ciencia del aprendizaje nos dice que la participación de los estudiantes en las clases aumenta notablemente su aprendizaje y también mejora sus calificaciones [(Márquez, J. et al. 2023)](https://journals.sagepub.com/doi/10.1177/21582440231177298). Así que, trataré por todos los medios de que participéis en clase. Esto es fundamental para que, entre todos, construyamos un conocimiento compartido sobre la disciplina. 
+
+Además, las dudas y aportaciones de los compañeros son útiles para todos. Es más probable que entiendas un concepto complejo si te lo explica tu colega que si te lo explico yo. La razón es simple: hace muchos años que aprendí lo que os cuento en clase y ya no recuerdo lo que se sentía al aprenderlo por primera vez.
+
+También sabemos que cometer errores es una estupenda forma de aprender. Bueno, cometerlos y que alguien (el profesor o tus compañeros) te hagan ver que te has equivocado [(Mera, Y. et al. 2022)](https://link.springer.com/article/10.3758/s13423-021-02022-8). Para que esto funcione realmente, es importante que haya un proceso de retroalimentación continua en el proceso de prueba-error. Intentaré estar a la altura dando esa retroalimentación [(Fazio, L. et al. 2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4073309/).
+
+Por último una cuestión muy importante: puede que ahora sepáis menos que yo de esto. Pero eso cambiará en breve. Pronto seréis profesionales altamente cualificados que ocuparéis puestos de responsabilidad en diferentes empresas, administraciones, etc. Me comprometo a veros no solo como los estudiantes que sois, sino como a los profesionales que podéis ser. 
+
+
+
+#### Confianza
+
+Esta sección será corta. El símbolo "->" quiere decir "por lo tanto"
+
+Se puede decir en positivo:
+
+> Os estimo como personas -> Confío en vuestra capacidad -> Os exigiré según dicha confianza.
+
+
+O en negativo:
+
+>No exigiros hasta donde creo que podéis llegar - > No confío en vuestra capacidad -> No os estimo como personas.
+
+
+
+Me comprometo a:
+
++ Que las exigencias de aprendizaje tengan un sentido alineado con el contenido de la disciplina y con las reglas morales que usamos en la sociedad.
++ Adaptar las exigencias a las capacidades de los estudiantes lo más individualizadamente posible. 
+
+Esto puede sonar un poco cursi, pero también hay evidencias científicas que lo sostienen. Que confíen en uno hace que te esfuerces más y que aprendas mejor [(Martin, A.J. 2006)](https://www.researchgate.net/publication/248984516_The_Relationship_Between_Teachers'_Perceptions_of_Student_Motivation_and_Engagement_and_Teachers'_Enjoyment_of_and_Confidence_in_Teaching).
+
+
+
+#### Métodos docentes que estimulen y promuevan el afán de superación
+
+Seguro que habéis tenido profesores que usan distintas técnicas docentes. Desde la típica clase magistral (un profesor os cuenta una historia con o sin apoyo gráfico) hasta otras más innovadoras como la "clase invertida" (son los estudiantes los que cuentan la historia después de trabajar un tema concreto). Todas las técnicas docentes son útiles y trataremos de poner en práctica algunas de ellas durante la asignatura.
+
+Lo importante aquí no es el tipo de técnica docente sino la finalidad última de la clase más allá de los objetivos docentes específicos. Me comprometo a intentar que cada clase contenga un reto para vosotros. Una oportunidad de mejora individual. Estos retos estarán en el límite de vuestra capacidad. Ni demasiado fáciles ni imposibles. Es en ese límite (en ese ecotono, usando terminología ecológica), donde ocurre el aprendizaje profundo.
 
 
 
 ## Contenidos, evaluación y calificación de la asignatura
+
 En esta sección se describen los contenidos de la asignatura con detalle. Es altamente recomendable que los estudiantes lean esta sección y la tengan presente durante el transcurso de la asignatura. 
 
 Los contenidos descritos a en esta sección están desarrollados para satisfacer los objetivos de aprendizaje que se muestran tanto en la guía docente de la asignatura como a continuación:
@@ -96,6 +155,11 @@ Es decir, en esta asignatura habrá dos opciones de participación por parte de 
 
 
 En las siguientes secciones se describen con detalle los contenidos concretos de la asignatura. Para cada bloque se detallan sus objetivos, los contenidos específicos y los mecanismos de evaluación existentes. Por último se muestra la forma en la que se calificará el desempeño de los estudiantes. Para esto se tendrán en cuenta las dos vías de evaluación-calificación descritas anteriormente.
+
+Comenzaremos la asignatura con el  esquema que describe los objetivos que nos planteamos el curso pasado en la asignatura de *ecología*. La asignatura que nos ocupa este curso (*gestión de ecosistemas*) pone el foco en la segunda pregunta del esquema: ¿Cómo podemos usar los recursos de los ecosistemas de manera sostenible?
+
+
+![ecologia](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/follow_up_ecologia.png)
 
 
 
