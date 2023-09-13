@@ -81,7 +81,7 @@ O en negativo:
 
 Me comprometo a:
 
-+ Que las exigencias de aprendizaje tengan un sentido alineado con el contenido de la disciplina y con las reglas morales que usamos en la sociedad.
++ Que las exigencias de aprendizaje tengan un sentido alineado con el contenido de la disciplina y con las reglas morales que usamos en la sociedad. Es decir, el objetivo de las tareas que tendréis que hacer es el aprendizaje. Cada tarea tiene su "recompensa" en forma de nuevo conocimiento. Esto no será una gincana. 
 + Adaptar las exigencias a las capacidades de los estudiantes lo más individualizadamente posible. 
 
 Esto puede sonar un poco cursi, pero también hay evidencias científicas que lo sostienen. Que confíen en uno hace que te esfuerces más y que aprendas mejor [(Martin, A.J. 2006)](https://www.researchgate.net/publication/248984516_The_Relationship_Between_Teachers'_Perceptions_of_Student_Motivation_and_Engagement_and_Teachers'_Enjoyment_of_and_Confidence_in_Teaching).
