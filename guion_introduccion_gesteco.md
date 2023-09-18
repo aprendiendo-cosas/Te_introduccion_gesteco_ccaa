@@ -179,6 +179,8 @@ Para guiar un poco la construcción de una definición consensuada de "gestión 
 
 En esta sección no habrá ninguna actividad concreta a realizar por parte de los estudiantes. Pero el conocimiento adquirido será útil para otras actividades descritas en las siguientes secciones.
 
+Aquí estará disponible el mapa mental que iremos construyendo durante la sesión. Y aquí se puede descargar la definición consensuada que hemos dado de "gestión de ecosistemas"
+
 
 
 
@@ -254,4 +256,4 @@ El siguiente esquema resume la estructura de la asignatura. En él se muestran c
 
 ![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/resumen.png)
 
-Finalmente, aquí está disponible la presentación que se ha usado para guiar este acto docente. 
+Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/main/presentacion/compromisos_profesor.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
