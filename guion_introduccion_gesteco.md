@@ -256,4 +256,4 @@ El siguiente esquema resume la estructura de la asignatura. En él se muestran c
 
 ![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/resumen.png)
 
-Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/main/presentacion/compromisos_profesor.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
+Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/main/presentacion/introduccion_asignatura.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
