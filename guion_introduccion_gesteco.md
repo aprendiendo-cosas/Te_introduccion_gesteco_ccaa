@@ -138,7 +138,7 @@ Todo lo anterior requiere una atención continua (aunque no muy intensa) por par
 
 Es decir, en esta asignatura habrá dos opciones de participación por parte de los estudiantes. En la segunda semana cada estudiante tendrá que elegir entre una de las siguientes opciones. La decisión implica un compromiso y no se puede cambiar de opinión una vez se haya elegido una opción.
 
-+ Evaluación continua: Esta modalidad es, en mi opinión (vuelvo a hablar en primera persona), la más eficiente desde el punto de vista del aprendizaje. Requiere un esfuerzo sostenido en el tiempo que tendrá sus frutos en el corto plazo. Las actividades se calificarán solo cuando los estudiantes consideren que han aprendido lo suficiente.
++ Evaluación continua: Esta modalidad es, en mi opinión (vuelvo a hablar en primera persona), la más eficiente desde el punto de vista del aprendizaje. Requiere un esfuerzo sostenido en el tiempo que tendrá sus frutos en el corto plazo. Las actividades se calificarán solo cuando los estudiantes consideren que han aprendido lo suficiente. Recomiendo esta modalidad para aquellos estudiantes que cursen la asignatura por primera vez y tengan disponibilidad para asistir a muchas clases y a las prácticas. 
   + Compromiso de los estudiantes:
     + Asistir a clase un número de veces razonable. Incluyendo aquí el viaje de prácticas. Esto no quiere decir que la asistencia sea obligatoria. Quiere decir que adoptar esta vía de evaluación implica asumir el compromiso de cierta presencialidad.
     + Participación activa en los grupos de trabajo que se conformen. 
@@ -146,7 +146,7 @@ Es decir, en esta asignatura habrá dos opciones de participación por parte de 
   + Compromiso de los profesores:
     + Generar retroalimentaciones útiles y actualizadas de los trabajos que vayan desarrollando.
     + Promover atención personalizada a cada estudiante y a los grupos de trabajo que se constituyan. 
-+ Calificación discreta: Esta opción está pensada para aquellos estudiantes con necesidades especiales o con problemas particulares para atender a clase. Requiere seguramente el mismo esfuerzo que la otra, pero este puede concentrarse en la parte final de la asignatura. Las actividades se calificarán tras una única entrega por parte de los estudiantes. 
++ Calificación discreta: Esta opción está pensada para aquellos estudiantes con necesidades especiales o con problemas particulares para atender a clase. Requiere seguramente el mismo esfuerzo que la otra, pero este puede concentrarse en la parte final de la asignatura. Las actividades se calificarán tras una única entrega por parte de los estudiantes. Recomiendo esta modalidad para los estudiantes que tengan dificultades para asistir a muchas clases o para estar pendientes de la asignatura de manera frecuente. 
   + Compromiso de los estudiantes:
     + Entregar las tareas a tiempo.
   + Compromiso de los profesores:
