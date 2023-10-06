@@ -206,6 +206,12 @@ Para abordar estos objetivos trabajaremos en los siguientes contenidos:
     + Teoría de "explotación" de poblaciones biológicas.
   + Gestión adaptativa.
 
+La siguiente presentación se usará como hilo argumental para introducir los distintos temas abordados durante este bloque.
+
+
+<iframe src="https://prezi.com/p/embed/EilbSczyrNf9VATiaauV/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="515" width="560"></iframe>
+
+
 En esta sección no habrá ninguna actividad concreta a realizar por parte de los estudiantes. Pero el conocimiento adquirido será útil para otras actividades descritas en las siguientes secciones.
 
 
