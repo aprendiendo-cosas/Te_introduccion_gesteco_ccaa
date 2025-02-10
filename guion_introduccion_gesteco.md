@@ -81,7 +81,7 @@ O en negativo:
 
 Me comprometo a:
 
-+ Que las exigencias de aprendizaje tengan un sentido alineado con el contenido de la disciplina y con las reglas morales que usamos en la sociedad. Es decir, el objetivo de las tareas que tendréis que hacer es el aprendizaje. Cada tarea tiene su "recompensa" en forma de nuevo conocimiento. Esto no será una gincana. 
++ Que las exigencias de aprendizaje tengan un sentido alineado con el contenido de la disciplina y con las reglas morales que usamos en la sociedad. Es decir, el objetivo de las tareas que tendréis que hacer es el aprendizaje. Cada tarea tiene su "recompensa" en forma de nuevo conocimiento. Esto no será una gymcana. 
 + Adaptar las exigencias a las capacidades de los estudiantes lo más individualizadamente posible. 
 
 Esto puede sonar un poco cursi, pero también hay evidencias científicas que lo sostienen. Que confíen en uno hace que te esfuerces más y que aprendas mejor [(Martin, A.J. 2006)](https://www.researchgate.net/publication/248984516_The_Relationship_Between_Teachers'_Perceptions_of_Student_Motivation_and_Engagement_and_Teachers'_Enjoyment_of_and_Confidence_in_Teaching).
@@ -124,13 +124,14 @@ Los contenidos descritos a en esta sección están desarrollados para satisfacer
 
 
 
-Para satisfacer estos objetivos, hemos dividido la asignatura en cuatro bloques temáticos de complejidad creciente. Estos bloques permitirán a los estudiantes conocer los fundamentos teóricos de la gestión de ecosistemas así como algunos ejemplos concretos de aplicación de dichos conceptos. Además, se promoverá el pensamiento crítico para que los estudiantes aprendan a identificar puntos de mejora en los métodos de gestión estudiados. 
+Para satisfacer estos objetivos, hemos dividido la asignatura en cuatro bloques temáticos. Estos bloques permitirán a los estudiantes conocer los fundamentos teóricos de la gestión de ecosistemas así como algunos ejemplos concretos de aplicación de dichos conceptos. Además, se promoverá el pensamiento crítico para que los estudiantes aprendan a identificar puntos de mejora en los métodos de gestión estudiados. 
 
 Se utilizarán diversas técnicas docentes (clase expositiva, clase invertida, aprendizaje basado en proyectos, etc.) durante la asignatura. Independientemente de la técnica utilizada, la filosofía docente se basa en los siguientes elementos:
 
 + Adquisición de competencias. Entendemos una competencia como la capacidad de actuar eficazmente en unas situaciones diversas, complejas e imprevisibles. Esto requiere la adquisición de conocimientos, pero no se reduce a esto. La participación en clase y la colaboración entre iguales son elementos fundamentales para adquirir las competencias necesarias. 
 + Evaluación como un elemento más del aprendizaje. Aquí consideramos que las tareas encargadas a los estudiantes no son únicamente un elemento de su calificación, sino que, sobre todo, son excelentes oportunidades para desarrollar competencias diversas. Por ello, se fomentará la evaluación continua de los aprendizajes adquiridos. Cada una de las actividades propuestas (ver más abajo) podrá ser revisada casi en tiempo real por los profesores. Habrá una retroalimentación continua hasta la fecha de entrega final acordada en clase. Solo cuando los estudiantes estén preparados y hayan aprendido, se procederá a la calificación. Este desacoplamiento temporal entre evaluación y calificación se aplicará a todas las actividades que tendrán que realizar los estudiantes durante el cuatrimestre. 
-+ Trabajo en equipo. Este principio se basa en una creencia (sin pruebas cuantitativas) del profesor responsable de la asignatura. Creo (hablo ahora como Curro, en primera persona) que no sabemos trabajar bien el equipo. Así, en general. De hecho, creo que una de las razones que hay detrás de nuestros problemas como especie es que se nos da mal colaborar. Y si queremos resolver los enormes retos socioecológicos que nos afectan, tenemos que trabajar juntos. Además, el curso pasado, en ecología (¡qué jóvenes éramos!) pude comprobar cómo muchos de los estudiantes conciben el trabajo en equipo como poco más que dividirse las partes del ejercicio y luego pegarlas para que parezca algo sólido. Trabajar en equipo es mucho más. En este cuatrimestre mejoraremos notablemente esta competencia (espero). 
++ Trabajo en equipo. Este principio se basa en una creencia (sin pruebas cuantitativas) del profesor responsable de la asignatura. Creo (hablo ahora como Curro, en primera persona) que no sabemos trabajar bien el equipo. Así, en general. De hecho, creo que una de las razones que hay detrás de nuestros problemas como especie es que se nos da mal colaborar. Y si queremos resolver los enormes retos socioecológicos que nos afectan, tenemos que trabajar juntos. Además, en el curso (o cuatrimestre, depende de dónde vengas) pasado, en ecología (¡qué jóvenes éramos!) pude comprobar cómo muchos de los estudiantes conciben el trabajo en equipo como poco más que dividirse las partes del ejercicio y luego pegarlas para que parezca algo sólido. Trabajar en equipo es mucho más. En este cuatrimestre mejoraremos notablemente esta competencia (espero). 
++ Expresión oral. En la asignatura de ecología dedicamos mucho tiempo a que mejoraran vuestras capacidades de expresión escrita. Aunque tengamos IAs muy potentes que nos ayuden en esto, sigue siendo muy importante escribir bien. No obstante, en este cuatrimestre pondremos el foco en la expresión oral. Mejoraremos nuestras habilidades para expresar verbalmente lo que hemos aprendido, lo que pensamos, lo que dudamos, lo que opinamos. Esto es fundamental en un mundo en el que la información multimedia es cada vez más frecuente y ocupa cada vez más parte de nuestras vidas.
 
 
 
@@ -152,8 +153,6 @@ Es decir, en esta asignatura habrá dos opciones de participación por parte de 
   + Compromiso de los profesores:
     + Evaluar y calificar las entregas a tiempo.
 
-
-
 En las siguientes secciones se describen con detalle los contenidos concretos de la asignatura. Para cada bloque se detallan sus objetivos, los contenidos específicos y los mecanismos de evaluación existentes. Por último se muestra la forma en la que se calificará el desempeño de los estudiantes. Para esto se tendrán en cuenta las dos vías de evaluación-calificación descritas anteriormente.
 
 Comenzaremos la asignatura con el  esquema que describe los objetivos que nos planteamos el curso pasado en la asignatura de *ecología*. La asignatura que nos ocupa este curso (*gestión de ecosistemas*) pone el foco en la segunda pregunta del esquema: ¿Cómo podemos usar los recursos de los ecosistemas de manera sostenible?
@@ -170,18 +169,20 @@ Si los ecosistemas fueran entidades tangibles fácilmente definibles, ahora "toc
 Para guiar un poco la construcción de una definición consensuada de "gestión de ecosistemas", haremos una de lluvia de ideas sobre los siguientes aspectos:
 + Definiciones: ¿qué entienden los estudiantes por "gestión de ecosistemas"?
 + Ejemplos: Teniendo en cuenta la experiencia personal de los estudiantes, ¿conoces algún ejemplo de gestión de ecosistemas?
-+ Conexiones con otras asignaturas: Una forma de definir algo es estudiar la posición de ese algo en el contexto de algo más grande. Así, ¿qué otras asignaturas os "suenan" parecidas?. A modo de recordatorio, [aquí](https://www.uco.es/ciencias/images/documentos/dipticos/diptico_ciencias%20ambientales_definitivo_REDUCIDO.pdf) tienes el plan de estudios de la titulación. 
++ Conexiones con otras asignaturas: Una forma de definir algo es estudiar la posición de ese algo en el contexto de algo más grande. Así, ¿qué otras asignaturas os "suenan" parecidas?.
 + En el devenir de la conversación iremos identificando las competencias o conocimientos que los estudiantes deberán de adquirir para aprender a gestionar ecosistemas. Esto es muy importante porque nos ayudará a tomar conciencia de qué cosas necesitamos aprender. Esto contribuye a pasar de la fase de "incompetencia inconsciente" (no sé lo que no sé) a otra mucho más útil de "incompetencia consciente" (sé lo que no sé).
 
 + Los resultados de la conversación se plasmarán en dos tipos de documentos:
   + Un mapa mental en el que el profesor irá anotando al vuelo los comentarios de los estudiantes.
   + Un texto que elaborará el profesor y que contendrá una especie de consenso de lo comentado durante la clase. Este texto nos permitirá definir de dónde partimos al inicio de la asignatura. Lo contrastaremos con los conocimientos adquiridos cuando finalice el cuatrimestre.
 
-En esta sección no habrá ninguna actividad concreta a realizar por parte de los estudiantes. Pero el conocimiento adquirido será útil para otras actividades descritas en las siguientes secciones.
+En este bloque no habrá ninguna actividad concreta a realizar por parte de los estudiantes. Pero el conocimiento adquirido será útil para otras actividades descritas en las siguientes secciones.
 
+
+
+<!-- 
 [Aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2023_2024/presentacion/mapa_conocimientos_previos.xmind) está disponible el mapa mental que iremos construyendo durante la sesión. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).  Y [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2023_2024/presentacion/definicion_gestion_ecosistemas.pdf) se puede descargar la definición consensuada que hemos dado de "gestión de ecosistemas"
-
-
+-->
 
 
 #### Bloque 2: ¿Qué nos dice la ciencia sobre cómo gestionar ecosistemas?
@@ -219,24 +220,26 @@ En esta sección no habrá ninguna actividad concreta a realizar por parte de lo
 
 #### Bloque 3: ¿Cómo gestionamos los ecosistemas en la vida real?
 
-Tras conocer los principales conceptos teóricos que los científicos han creado con relación a la gestión de ecosistemas, estudiaremos con detalle cómo se llevan a la práctica. Dedicaremos todo este bloque a estudiar con detalle cómo se gestionan los ecosistemas del Parque Natural de la Sierra de Cardeña y Montoro (Córdoba). Esto constituirá las prácticas de la asignatura. 
+Tras conocer los principales conceptos teóricos que los científicos han creado con relación a la gestión de ecosistemas, estudiaremos con detalle cómo se llevan a la práctica. En este bloque combinaremos clases teóricas con las prácticas de la asignatura que consistirán en una salida de tres días al campo.
 
 De forma más detallada, los objetivos de este bloque son:
-+ Conocer de primera mano cómo se manejan ecosistemas en un espacio protegido y en su ámbito de influencia socioeconómica. 
++ Conocer de primera mano cómo se manejan ecosistemas en varios espacios protegidos y en su ámbito de influencia socioeconómica. 
 + Constatar las diferencias entre la teoría y la práctica con relación a la gestión de ecosistemas.
 + Identificar carencias en la gestión actual comparando los conceptos teóricos estudiados en el bloque anterior con lo que aprendamos en la zona de estudio.
 + Mejorar el trabajo en equipo.
 + Mejorar competencias de creación de contenido multimedia.
 
 Esta actividad constará de los siguientes elementos:
-+ Sesión práctica en gabinete para explicar con detalle en qué consisten las prácticas. 19/10/2023.
-+ Viaje de prácticas al P. N. Sierra de Cardeña y Montoro. Se realizará los días 2, 3 y 4 de noviembre. Durante esta salida nos entrevistaremos con distintos profesionales que desarrollan su actividad en la zona de estudio. Ellos nos contarán cómo se gestionan los ecosistemas y cuáles son los problemas más importantes a los que se enfrentan.
-+ Dos sesiones prácticas para reflexionar sobre los restulados del viaje y sobre los aprendizajes adquiridos. En estas sesiones los estudiantes describirán su experiencia. Esto se detallará en el siguiente apartado. 14/11/2023 y 12/12/2023.
++ Viaje de prácticas al P. N. Sierra de Cardeña y Montoro y al P. N. de Hornachelos. Se realizará los días 6, 7 y 8 de marzo. Durante esta salida nos entrevistaremos con distintos profesionales que desarrollan su actividad en la zona de estudio. Ellos nos contarán cómo se gestionan los ecosistemas y cuáles son los problemas más importantes a los que se enfrentan.
++ Dos sesiones prácticas para reflexionar sobre los restulados del viaje y sobre los aprendizajes adquiridos. En estas sesiones los estudiantes describirán su experiencia. Esto se detallará en el siguiente apartado.
 
 Este bloque sí requerirá una participación activa por parte de los estudiantes. A continuación se describen las tareas a realizar con un nivel de detalle suficiente para decidir qué vía de evaluación-calificación prefiere cada estudiante:
 
-+ Vía de evaluación continua: Los estudiantes se agruparán en equipos de unos 5 miembros y elaborarán un vídeo describiendo alguno de los temas abordados durante el viaje. A cada grupo se le asignará un tema específico: gestión cinegética, gestión de especies amenazadas, etc. Los estudiantes no solo tendrán que resumir lo estudiado en la salida, sino que también deberán alinear estos aprendizajes con los marcos conceptuales analizados en el bloque anterior. También podrán proponer mejoras o elaborar críticas constructivas a la forma de gestionar el ámbito temático en cuestión. Se suministrará más información en otros guiones. Los vídeos se entregarán al final del cuatrimestre. El profesor acompañará de forma continua a los estudiantes para mejorar su desempeño. Habrá al menos una sesión de prácticas de 3 horas de duración a finales de noviembre para avanzar en esta actividad. Será, de alguna forma, una tutoría presencial de 3 horas. En este guión se detalla la actividad a realizar.
-+ Vía de calificación discreta: Los estudiantes que opten por esta vía tendrán que hacer un trabajo escrito describiendo cómo se gestiona un ámbito temático concreto (propuesto por el profesor). Tendrá que ser un trabajo original que contenga la descripción del ámbito en cuestión, críticas constructivas para su mejora y ejemplos de aplicación en distintas zonas reales. Este trabajo se entregará a final del cuatrimestre y se calificará directamente.
++ Vía de evaluación continua: Los estudiantes se agruparán en equipos de 5 miembros y elaborarán un trabajo sobre cómo abordar un problema de gestión real que hayamos visto previamente en campo. Se trata de aplicar lo ya visto en clase sobre lo que "dice la ciencia de la gestión de ecosistemas", con la forma en la que se gestionan actualmente los ecosistemas (o sus compartimentos). Simularemos que los gestores nos piden ayuda para abordar ciertos problemas (Ej. la gestión del lince y los conflictos con los agricultores) y trataremos de ofrecerles puntos de vista más integradores y sistémicos. El profesor acompañará de forma continua a los estudiantes para mejorar su desempeño. Habrá dos sesiones de prácticas para avanzar en esta actividad. Será, de alguna forma, una tutoría presencial. Este trabajo se expondrá de dos formas:
+  + En primer lugar los estudiantes prepararán un documento escrito o gráfico resumiendo el problema y sus propuestas. Este documento puede tener la forma de un póster, un vídeo o un texto enriquecido con imágenes, gráficas y demás. Para la elaboración de este producto deberán de procesar información ambiental (ej. mapas, imágenes de satélite, etc.).
+  + El trabajo realizado se expondrá oralmente a final de curso. La idea es que esta exposición se realice en algunos institutos de la ciudad de Córdoba. Esto último aún no es definitivo. 
+
++ Vía de calificación discreta: Los estudiantes que opten por esta vía tendrán que hacer un trabajo (escrito, a modo de vídeo o como un póster) abordando un problema de gestión de ecosistemas propuesto por el profesor. Tendrá que ser un trabajo original que contenga la descripción del problema en cuestión, críticas constructivas para su mejora y ejemplos de aplicación en distintas zonas reales. Este trabajo se entregará a final del cuatrimestre y se calificará directamente.
 
 
 
