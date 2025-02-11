@@ -157,7 +157,7 @@ En las siguientes secciones se describen con detalle los contenidos concretos de
 Comenzaremos la asignatura con el  esquema que describe los objetivos que nos planteamos el curso pasado en la asignatura de *ecología*. La asignatura que nos ocupa este curso (*gestión de ecosistemas*) pone el foco en la segunda pregunta del esquema: ¿Cómo podemos usar los recursos de los ecosistemas de manera sostenible?
 
 
-![ecologia](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2023_2024/imagenes/follow_up_ecologia.png)
+![ecologia](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/follow_up_ecologia.png)
 
 
 
@@ -253,9 +253,9 @@ Este bloque sí requerirá una participación activa por parte de los estudiante
 
 El siguiente esquema resume la estructura de la asignatura. En él se muestran cuatro columnas: contenidos (agrupados en los cuatro bloques descritos anteriormente), objetivos docentes, tareas de evaluación continua y métodos de calificación. Las flechas indican las relaciones existentes entre los objetivos docentes, los contenidos y las tareas de evaluación y calificación. De esta forma los estudiantes pueden comprobar los objetivos de aprendizaje que están explícitos en las tareas que tendrán que realizar durante el cuatrimestre.
 
-![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2023_2024/imagenes/resumen.png)
+![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/resumen.png)
 
-Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2023_2024/presentacion/introduccion_asignatura.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
+Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/main/presentacion/introduccion_asignatura.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
 
 
 
