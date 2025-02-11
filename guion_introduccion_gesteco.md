@@ -1,13 +1,14 @@
-# Guión de la sesión denominada "Introducción a la asignatura"
+# Introducción a la asignatura de Gestión de ecosistemas
 
 
-> + **_Versión_**: 2023-2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
+>  + **_Versión_**: 2024-2025
 >
 > +  **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 >
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 >
-> + **Duración**: Una sesión de una hora y otra de 1.5 horas.
+> + **Duración**: Dos horas aproximadamente
 
 ![portada](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2023_2024/imagenes/portada.jpg?raw=true)
 
@@ -133,8 +134,6 @@ Se utilizarán diversas técnicas docentes (clase expositiva, clase invertida, a
 + Trabajo en equipo. Este principio se basa en una creencia (sin pruebas cuantitativas) del profesor responsable de la asignatura. Creo (hablo ahora como Curro, en primera persona) que no sabemos trabajar bien el equipo. Así, en general. De hecho, creo que una de las razones que hay detrás de nuestros problemas como especie es que se nos da mal colaborar. Y si queremos resolver los enormes retos socioecológicos que nos afectan, tenemos que trabajar juntos. Además, en el curso (o cuatrimestre, depende de dónde vengas) pasado, en ecología (¡qué jóvenes éramos!) pude comprobar cómo muchos de los estudiantes conciben el trabajo en equipo como poco más que dividirse las partes del ejercicio y luego pegarlas para que parezca algo sólido. Trabajar en equipo es mucho más. En este cuatrimestre mejoraremos notablemente esta competencia (espero). 
 + Expresión oral. En la asignatura de ecología dedicamos mucho tiempo a que mejoraran vuestras capacidades de expresión escrita. Aunque tengamos IAs muy potentes que nos ayuden en esto, sigue siendo muy importante escribir bien. No obstante, en este cuatrimestre pondremos el foco en la expresión oral. Mejoraremos nuestras habilidades para expresar verbalmente lo que hemos aprendido, lo que pensamos, lo que dudamos, lo que opinamos. Esto es fundamental en un mundo en el que la información multimedia es cada vez más frecuente y ocupa cada vez más parte de nuestras vidas.
 
-
-
 Todo lo anterior requiere una atención continua (aunque no muy intensa) por parte de los estudiantes. El aprendizaje irá ocurriendo poco a poco con el trabajo personal en clase, en casa y sobre todo con los errores cometidos (recordad que aprendemos de los errores fundamentalmente). Los profesores serán acompañantes en el proceso de aprendizaje y no tanto altavoces que transmiten conocimiento. Sin embargo, hay algunos estudiantes que no pueden permitirse esta atención continua por diversas razones (trabajo fuera de la Universidad, problemas personales, etc.). Para estos estudiantes hemos diseñado un procedimiento de calificación directa sin la evaluación continua. Este procedimiento implicará la realización de actividades, pero no serán evaluadas de manera continua. Habrá una única entrega al final del cuatrimestre y dicha entrega recibirá una única calificación. 
 
 Es decir, en esta asignatura habrá dos opciones de participación por parte de los estudiantes. En la segunda semana cada estudiante tendrá que elegir entre una de las siguientes opciones. La decisión implica un compromiso y no se puede cambiar de opinión una vez se haya elegido una opción.
@@ -233,6 +232,13 @@ Esta actividad constará de los siguientes elementos:
 + Viaje de prácticas al P. N. Sierra de Cardeña y Montoro y al P. N. de Hornachelos. Se realizará los días 6, 7 y 8 de marzo. Durante esta salida nos entrevistaremos con distintos profesionales que desarrollan su actividad en la zona de estudio. Ellos nos contarán cómo se gestionan los ecosistemas y cuáles son los problemas más importantes a los que se enfrentan.
 + Dos sesiones prácticas para reflexionar sobre los restulados del viaje y sobre los aprendizajes adquiridos. En estas sesiones los estudiantes describirán su experiencia. Esto se detallará en el siguiente apartado.
 
+
+
+#### Bloque 4: ¿Cómo podemos hacer una gestión más "(socio)ecosistémica"?
+Los dos bloques anteriores confrontan dos realidades diferentes. La ciencia trabaja en la construcción de ideas, marcos conceptuales y métodos para gestionar los recursos naturales de la forma más sostenible posible y con una visión holística. Se pretende alcanzar la gestión de ecosistemas trascendiendo el manejo de los elementos que los constituyen. Sin embargo, el día a día de los tomadores de decisiones adolece en buena medida de esta visión holística. En la práctica de campo veremos cómo se gestionan aspectos específicos (o compartimentos) de los ecosistemas: gestión cinegética, manejo de vegetación, especies amenazadas, etc. Esta aparente diferencia entre la teoría y la práctica es la que motiva este último bloque. Aquí trataremos de imaginar cómo podría realizarse una gestión más integradora y holística de los ecosistemas. 
+
+En el bloque anterior hemos usado el ámbito temático o compartimento del ecosistema como unidad elemental. En la visita de campo hablamos de gestión forestal, cinegética, ganadera, etc. Allí veremos cómo el concepto de gestión ecosistémica se menciona pocas veces. Sin embargo, en las primeras clases de teoría hablamos fundamentalmente de gestión de ecosistemas. En este bloque trataremos de integrar ambas ideas describiendo cómo se pueden gestionar distintos tipos de ecosistemas partiendo de los ya existentes procedimientos de manejo de ámbitos temáticos. Se trata, en parte, de explicitar cómo podría hacerse más ecosistémica la gestión de los recursos que se realiza en la actualidad. 
+
 Este bloque sí requerirá una participación activa por parte de los estudiantes. A continuación se describen las tareas a realizar con un nivel de detalle suficiente para decidir qué vía de evaluación-calificación prefiere cada estudiante:
 
 + Vía de evaluación continua: Los estudiantes se agruparán en equipos de 5 miembros y elaborarán un trabajo sobre cómo abordar un problema de gestión real que hayamos visto previamente en campo. Se trata de aplicar lo ya visto en clase sobre lo que "dice la ciencia de la gestión de ecosistemas", con la forma en la que se gestionan actualmente los ecosistemas (o sus compartimentos). Simularemos que los gestores nos piden ayuda para abordar ciertos problemas (Ej. la gestión del lince y los conflictos con los agricultores) y trataremos de ofrecerles puntos de vista más integradores y sistémicos. El profesor acompañará de forma continua a los estudiantes para mejorar su desempeño. Habrá dos sesiones de prácticas para avanzar en esta actividad. Será, de alguna forma, una tutoría presencial. Este trabajo se expondrá de dos formas:
@@ -243,22 +249,6 @@ Este bloque sí requerirá una participación activa por parte de los estudiante
 
 
 
-#### Bloque 4: ¿Cómo podemos hacer una gestión más "(socio)ecosistémica"?
-Los dos bloques anteriores confrontan dos realidades ligeramente diferentes. La ciencia trabaja en la construcción de ideas, marcos conceptuales y métodos para gestionar los recursos naturales de la forma más sostenible posible y con una visión holística. Se pretende alcanzar la gestión de ecosistemas trascendiendo el manejo de los elementos que los constituyen. Sin embargo, el día a día de los tomadores de decisiones adolece en buena medida de esta visión holística. En la práctica de campo veremos cómo se gestionan aspectos específicos (o compartimentos) de los ecosistemas: gestión cinegética, manejo de vegetación, especies amenazadas, etc. Esta aparente diferencia entre la teoría y la práctica es la que motiva este último bloque. Aquí trataremos de imaginar cómo podría realizarse una gestión más integradora y holística de los ecosistemas. 
-
-En el bloque anterior hemos usado el ámbito temático o compartimento del ecosistema como unidad elemental. En la visita de campo hablamos de gestión forestal, cinegética, ganadera, etc. Allí veremos cómo el concepto de gestión ecosistémica se menciona pocas veces. Sin embargo, en las primeras clases de teoría hablamos fundamentalmente de gestión de ecosistemas. En este bloque trataremos de integrar ambas ideas describiendo cómo se pueden gestionar distintos tipos de ecosistemas partiendo de los ya existentes procedimientos de manejo de ámbitos temáticos. Se trata, en parte, de explicitar cómo podría hacerse más ecosistémica la gestión de los recursos que se realiza en la actualidad. Las sesiones de teoría de esta parte consistirán en una serie de caracterizaciones de tipos de ecosistema. Para ello se usará una especie de plantilla común. Es decir, trataremos de caracterizar cada tipo de ecosistema usando los mismos parámetros:
-+ Estructura del ecosistema: Los elementos que constituyen la estructura física del sistema (ej. vegetación, herbívoros, etc.)
-+ Contexto abiótico: Características físicas que condicionan la estructura del ecosistema. Precipitación y temperatura fundamentalmente.
-+ Flujos de energía: Se refiere a la forma en la que la energía entra al ecosistema y se distribuye por sus diferentes compartimentos.
-+ Flujos de materiales: Caracterización de la forma en la que la materia se mueve por los distintos compartimentos del ecosistema.
-+ Servicios ecosistémicos: esta es la primera variable realmente ecosistémica y se refiere al conjunto de servicios que el tipo de ecosistema en cuestión puede proveer.
-+ Procedimientos de gestión existentes: aquí se comentarán los procedimientos de gestión más habituales en cada ecosistema.
-+ Disfunciones actuales: se explicitarán las situaciones que consideramos no adecuadas o disfuncionales (desajuste en el funcionamiento de algo). Ej. en el ecosistema A abundan las algas y no hay ningún protocolo de gestión asociado a las mismas.
-+ Disfunciones previstas: de esta forma contemplaremos los impactos que el cambio global provocará en cada tipo de ecosistema.
-+ Escenarios: se definirán distintos escenarios de manejo ecosistémico y se caracterizarán sus impactos sobre los elementos descritos anteriormente.
-
-Esta caracterización de los tipos de ecosistemas se realizará "a la limón" entre los profesores y los estudiantes. Los mismos equipos de trabajo de la actividad anterior (vídeo sobre un ámbito temático concreto de la salida de campo) se encargarán de preparar clases sobre distintos tipos de ecosistemas. Cada equipo tendrá que describir a sus compañeros un tipo específico de ecosistema. Otros tipos de ecosistema serán descritos por los profesores. Esta técnica de aprendizaje se denomina ["clase invertida"](https://es.wikipedia.org/wiki/Aula_invertida). Esta actividad será realizada solo por los estudiantes que hayan optado por la vía de la evaluación continua. Al igual que en el caso del vídeo, tendrán un seguimiento detallado del proceso de preparación de su clase. Esto permitirá a los estudiantes obtener calificación después de múltiples iteraciones con el profesor, lo cual aumenta considerablemente las probabilidades de éxito. Los estudiantes que opten por la calificación discreta tendrán que preparar un trabajo individual describiendo un ecosistema concreto usando la misma aproximación descrita anteriormente. En ambos casos, se aportará más información en un guión específico.
-
 #### Resumen
 
 El siguiente esquema resume la estructura de la asignatura. En él se muestran cuatro columnas: contenidos (agrupados en los cuatro bloques descritos anteriormente), objetivos docentes, tareas de evaluación continua y métodos de calificación. Las flechas indican las relaciones existentes entre los objetivos docentes, los contenidos y las tareas de evaluación y calificación. De esta forma los estudiantes pueden comprobar los objetivos de aprendizaje que están explícitos en las tareas que tendrán que realizar durante el cuatrimestre.
@@ -266,3 +256,19 @@ El siguiente esquema resume la estructura de la asignatura. En él se muestran c
 ![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2023_2024/imagenes/resumen.png)
 
 Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2023_2024/presentacion/introduccion_asignatura.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
+
+
+
+
+
+****
+
+[Aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+
+****
+Haz click [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+****
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
+
+<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
