@@ -10,7 +10,7 @@
 >
 > + **Duración**: Dos horas aproximadamente
 
-![portada](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2023_2024/imagenes/portada.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2024_2025/imagenes/portada.jpg?raw=true)
 
 
 
@@ -32,7 +32,7 @@
 
 ## Cinco compromisos del profesor con los estudiantes y con la clase
 
-Este cuatrimestre compartiremos muchas horas en clase y también en campo. Durante ese tiempo el profesor hablará mucho. Esto nos hace pensar que la docencia es un proceso unidireccional en el que el profesor o profesora transmite conocimientos a los estudiantes. Sin embargo, desde hace décadas sabemos que el aprendizaje no ocurre mediante una especie de misterioso "volcado" de saberes desde el profesor al estudiante. Gracias al avance de las neurociencias sabemos que el aprendizaje es más bien un acompañamiento en el que el profesor guía el aprendizaje de los estudiantes. Para que ese proceso sea realmente efectivo es necesario que el estudiante trabaje en una serie de tareas concretas. Además, es necesario que el profesor cumpla una serie de requisitos. Debe de tener un conocimiento robusto de la materia impartida, debe de preparar actividades interesantes y retantes para los estudiantes, etc. Además (y de esto trata esta sección), ha de tener una actitud determinada con los individuos que forman parte de la clase. En esta sección describiré (hablando en primera persona a partir de ahora) las características principales de esa actitud. Las cinco claves que resumo a continuación no son una creación mía. Son una copia adaptada de [este](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1236382) artículo escrito por Aniceto Masferrer, profesor de la Universidad de Valencia. Antes de proceder a describir estas cinco claves, quiero indicar que para mí son compromisos que intentaré llevar a cabo. Si durante el curso veis que no los cumplo, agradeceré vuestra llamada de atención bien en persona o bien de forma anónima en [este](https://docs.google.com/forms/d/e/1FAIpQLSe4WzmqZG8daWWtHZFaWoKPCq2ZnzoVM74kqS0lzzPvF2xPjg/viewform?usp=sf_link) formulario. Esta explicación se apoya en [esta](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2023_2024/presentacion/introduccion_asignatura.pptx) presentación de Powerpoint. Vamos a ello:
+Este cuatrimestre compartiremos muchas horas en clase y también en campo. Durante ese tiempo el profesor hablará mucho. Esto nos hace pensar que la docencia es un proceso unidireccional en el que el profesor o profesora transmite conocimientos a los estudiantes. Sin embargo, desde hace décadas sabemos que el aprendizaje no ocurre mediante una especie de misterioso "volcado" de saberes desde el profesor al estudiante. Gracias al avance de las neurociencias sabemos que el aprendizaje es más bien un acompañamiento en el que el profesor guía el aprendizaje de los estudiantes. Para que ese proceso sea realmente efectivo es necesario que el estudiante trabaje en una serie de tareas concretas. Además, es necesario que el profesor cumpla una serie de requisitos. Debe de tener un conocimiento robusto de la materia impartida, debe de preparar actividades interesantes y retantes para los estudiantes, etc. Además (y de esto trata esta sección), ha de tener una actitud determinada con los individuos que forman parte de la clase. En esta sección describiré (hablando en primera persona a partir de ahora) las características principales de esa actitud. Las cinco claves que resumo a continuación no son una creación mía. Son una copia adaptada de [este](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1236382) artículo escrito por Aniceto Masferrer, profesor de la Universidad de Valencia. Antes de proceder a describir estas cinco claves, quiero indicar que para mí son compromisos que intentaré llevar a cabo. Si durante el curso veis que no los cumplo, agradeceré vuestra llamada de atención bien en persona o bien de forma anónima en [este](https://docs.google.com/forms/d/e/1FAIpQLSe4WzmqZG8daWWtHZFaWoKPCq2ZnzoVM74kqS0lzzPvF2xPjg/viewform?usp=sf_link) formulario. Esta explicación se apoya en [esta](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2024_2025/presentacion/introduccion_asignatura.pptx) presentación de Powerpoint. Vamos a ello:
 
 
 
@@ -157,7 +157,7 @@ En las siguientes secciones se describen con detalle los contenidos concretos de
 Comenzaremos la asignatura con el  esquema que describe los objetivos que nos planteamos el curso pasado en la asignatura de *ecología*. La asignatura que nos ocupa este curso (*gestión de ecosistemas*) pone el foco en la segunda pregunta del esquema: ¿Cómo podemos usar los recursos de los ecosistemas de manera sostenible?
 
 
-![ecologia](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/follow_up_ecologia.png)
+![ecologia](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2024_2025/imagenes/follow_up_ecologia.png)
 
 
 
@@ -180,7 +180,7 @@ En este bloque no habrá ninguna actividad concreta a realizar por parte de los 
 
 
 <!-- 
-[Aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2023_2024/presentacion/mapa_conocimientos_previos.xmind) está disponible el mapa mental que iremos construyendo durante la sesión. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).  Y [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2023_2024/presentacion/definicion_gestion_ecosistemas.pdf) se puede descargar la definición consensuada que hemos dado de "gestión de ecosistemas"
+[Aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2024_2025/presentacion/mapa_conocimientos_previos.xmind) está disponible el mapa mental que iremos construyendo durante la sesión. Todos los mapas mentales que usamos en la asignatura se pueden abrir con Xmind, que puedes descargar [aquí](https://xmind.app/download/).  Y [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2024_2025/presentacion/definicion_gestion_ecosistemas.pdf) se puede descargar la definición consensuada que hemos dado de "gestión de ecosistemas"
 -->
 
 
@@ -253,9 +253,9 @@ Este bloque sí requerirá una participación activa por parte de los estudiante
 
 El siguiente esquema resume la estructura de la asignatura. En él se muestran cuatro columnas: contenidos (agrupados en los cuatro bloques descritos anteriormente), objetivos docentes, tareas de evaluación continua y métodos de calificación. Las flechas indican las relaciones existentes entre los objetivos docentes, los contenidos y las tareas de evaluación y calificación. De esta forma los estudiantes pueden comprobar los objetivos de aprendizaje que están explícitos en las tareas que tendrán que realizar durante el cuatrimestre.
 
-![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/main/imagenes/resumen.png)
+![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2024_2025/imagenes/resumen.png)
 
-Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/main/presentacion/introduccion_asignatura.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
+Finalmente, [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2024_2025/presentacion/introduccion_asignatura.pptx) está disponible la presentación que se ha usado para guiar este acto docente. 
 
 
 
