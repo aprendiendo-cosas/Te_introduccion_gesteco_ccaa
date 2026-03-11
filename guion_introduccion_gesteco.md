@@ -10,11 +10,15 @@
 >
 > + **Duración**: Aproximadamente una hora
 
-![portada](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2025_2026/imagenes/portada.jpg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/blob/2025-2026/imagenes/portada.jpg?raw=true)
+
+---
+[TOC]
+---
 
 
 
-## Objetivos del acto docente 
+## 1 Objetivos del acto docente 
 
 + Motivar a los alumnos para que estudien con ilusión esta asignatura. Está comprobado que la motivación promueve el aprendizaje profundo.
 + Contextualizar la asignatura en el grado de ciencias ambientales.
@@ -26,7 +30,7 @@
   
   
 
-## Contenidos
+## 2 Contenidos de la sesión
 
 Se realizó una grabación del audio de la sesión. Gracias a una IA se ha transcrito este contenido y se ha reestructurado para generar un texto legible. [Esta](https://www.perplexity.ai/search/la-sesion-de-clase-de-la-que-e-TLsrS9_5R7yxfyrKHu8ofg) conversación y [esta](https://www.perplexity.ai/search/el-texto-adjunto-contiene-una-iP_.fQe9QRmzN_FC.K2mhQ) otra contienen los prompts que usé para transformar la transcripción del audio en el siguiente texto:
 
@@ -34,9 +38,9 @@ La sesión tiene dos bloques claramente diferentes en cuanto a contenido. El pri
 
 [Aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/raw/2025-2026/presentacion/introduccion_asignatura.pptx) puedes descargar la presentación que se usó para guiar la clase. 
 
-### 1 Miradas difusas hacia el concepto de "Gestión de ecosistemas"
+### 2.1 Miradas difusas hacia el concepto de "Gestión de ecosistemas"
 
-#### 1.1 La multiplicidad de perspectivas: El cilindro de la realidad ambiental.
+#### 2.1.1 La multiplicidad de perspectivas: El cilindro de la realidad ambiental.
 
 El discurso comienza con una provocación visual: un cilindro y las sombras que proyecta según la luz que reciba. Dependiendo del ángulo, la sombra puede ser un círculo o un cuadrado. Esta metáfora es el pilar sobre el cual se construye la idea de la subjetividad en la percepción ambiental. En la gestión de un territorio, no existe una única realidad, sino múltiples visiones legítimas: la del agricultor que ve recursos, la del conservacionista que ve biodiversidad, la del cazador que ve piezas y la del político que ve votos o desarrollo económico.
 
@@ -48,13 +52,13 @@ El argumento aquí es que el gestor de ecosistemas debe tener la capacidad de ve
 - **Otras miradas:** Perspectivas estéticas, espirituales (como la de un monje budista) o puramente económicas.
 
 
-#### 1.2 Ética y responsabilidad profesional: La Alegoría de la Caverna
+#### 2.1.2 Ética y responsabilidad profesional: La Alegoría de la Caverna
 
 Conectando con la metáfora anterior, el profesor introduce la Alegoría de la Caverna de Platón. Aquí, el argumento se desplaza hacia la ética y la responsabilidad profesional. Los estudiantes son retados a salir de la "caverna" del conocimiento superficial (las sombras) para comprender la verdadera complejidad del mundo. Sin embargo, el hilo argumental subraya que el papel del ambientólogo no es quedarse fuera contemplando la luz (la ciencia pura), sino regresar a la caverna para ayudar a los demás a interpretar la realidad compleja.
 
 Este punto es crucial: se establece que el conocimiento técnico no tiene valor si no se traduce en una capacidad de comunicación y guía para la sociedad. El gestor se define como un mediador entre la ciencia (la luz) y la gestión práctica (el interior de la caverna), lo que refuerza los objetivos de educación ambiental de aumentar la concienciación y proporcionar herramientas para la toma de decisiones responsables.
 
-#### 1.3 Descripción de la gestión de ecosistemas a partir de varias miradas dicotómicas
+#### 2.1.3 Descripción de la gestión de ecosistemas a partir de varias miradas dicotómicas
 
 ##### Primera dicotomía: comprender el mundo y transformar el mundo
 
@@ -116,13 +120,13 @@ Esta tesis se ilustra mediante un experimento comparativo entre hormigas y human
 
 Trasladado al ámbito universitario, este enfoque permite reinterpretar fenómenos cotidianos como la figura del miembro de equipo que no asiste a reuniones ni contribuye al trabajo común, situaciones que suelen ser ocultadas o toleradas en lugar de abordarse explícitamente. La asignatura propone enfrentar estos problemas relacionales como parte del propio objeto de aprendizaje, reconociendo que el desarrollo de habilidades interpersonales robustas es tan imprescindible como la adquisición de conocimientos disciplinares para la gestión de ecosistemas y para la construcción de inteligencias colectivas capaces de enfrentar sistemas socioecológicos complejos.
 
-### Contenidos de la asignatura, herramientas de evaluación y calificación
+### 2.2 Contenidos de la asignatura, herramientas de evaluación y calificación
 
 
-![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2025_2026/imagenes/resumen.png)
+![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/2025-2026/imagenes/resumen.png)
 
 
-#### 1. Objetivos docentes de la asignatura
+#### 2.2.1. Objetivos docentes de la asignatura
 - Adquirir una primera visión de qué significa gestionar ecosistemas y socioecosistemas, conectando con la experiencia previa del estudiantado.
 - Pasar de la incompetencia inconsciente a la incompetencia consciente, identificando de forma explícita qué se desconoce sobre gestión de ecosistemas.
 - Comprender la complejidad inherente a los socioecosistemas y a su gestión.
@@ -139,12 +143,12 @@ Trasladado al ámbito universitario, este enfoque permite reinterpretar fenómen
 - Mejorar las habilidades de trabajo en equipo en contextos de análisis y resolución de problemas ambientales complejos.
 - Entrenar y consolidar la identidad profesional como ambientólogo o ambientóloga.
 
-#### 2. Contenidos y bloques temáticos
-##### 2.1. Bloque 0. Punto de partida: ¿qué sabemos sobre gestión de ecosistemas?
+#### 2.2.2. Contenidos y bloques temáticos
+##### Bloque 0. Punto de partida: ¿qué sabemos sobre gestión de ecosistemas?
 - Dinámica grupal sobre ideas y experiencias previas del alumnado en relación con la gestión de ecosistemas y socioecosistemas.
 - Puesta en común y problematización de esas ideas como base para definir los objetivos de aprendizaje del curso.
 
-##### 2.2. Bloque 1. Aproximaciones novedosas para mejorar la gestión de ecosistemas
+##### Bloque 1. Aproximaciones novedosas para mejorar la gestión de ecosistemas
 Bloque impartido fundamentalmente por el profesor mediante clases expositivas dialogadas.
 
 - Teoría de sistemas complejos aplicada a ecosistemas y socioecosistemas.
@@ -155,7 +159,7 @@ Bloque impartido fundamentalmente por el profesor mediante clases expositivas di
 - Paradigmas de gestión: de la gestión de especies a la gestión de ecosistemas.
 - Abordaje de conflictos socioecológicos asociados a la gestión.
 
-##### 2.3. Bloque 2. Técnicas y métodos actualmente usados para gestionar ecosistemas
+##### Bloque 2. Técnicas y métodos actualmente usados para gestionar ecosistemas
 Bloque impartido principalmente por el estudiantado mediante exposiciones temáticas en grupo, con acompañamiento previo del profesor.
 
 - Restauración de ecosistemas.
@@ -164,39 +168,39 @@ Bloque impartido principalmente por el estudiantado mediante exposiciones temát
 - Gestión forestal.
 - Salida de campo al Parque Natural Sierra de Cardeña y Montoro, centrada en conocer sobre el terreno prácticas reales de gestión y dialogar con gestores, cazadores y otros actores.
 
-##### 2.4. Bloque 3. Manos a la obra: reto de gestión socioecológica
+##### Bloque 3. Manos a la obra: reto de gestión socioecológica
 Bloque aplicado centrado en el trabajo por proyectos en grupo.
 
 - Asignación a cada grupo de un reto ambiental complejo relacionado con la gestión de un socioecosistema concreto.
 - Diseño y desarrollo del análisis del problema y de propuestas de gestión, combinando las aproximaciones conceptuales del Bloque 1 con las herramientas y ejemplos del Bloque 2.
 - Elaboración de entregas parciales y de un producto final que sintetice el trabajo (informe, presentación, etc.).
 
-#### 3. Contribución activa del estudiantado
-##### 3.1. Impartición de clases temáticas
+#### 2.2.3. Contribución activa del estudiantado
+##### 2.2.3.1. Impartición de clases temáticas
 - El bloque de "Técnicas o métodos usados para gestionar ecosistemas" se organiza mediante grupos de aproximadamente cinco o seis estudiantes, cada uno responsable de un tema (p. ej. restauración, gestión cinegética, espacios protegidos, gestión forestal).
 - El objetivo no es leer diapositivas, sino ser capaces de explicar el tema con naturalidad, como si se conversara sobre una experiencia cotidiana, apoyándose en materiales preparados y en una comprensión profunda del contenido.
 - El profesor proporciona con antelación materiales de base y acompañamiento para la preparación favoreciendo la evaluación continua.
 
-##### 3.2. Trabajo en grupo sobre un reto socioecológico
+##### 2.2.3.2. Trabajo en grupo sobre un reto socioecológico
 - En el bloque "Manos a la obra" cada grupo recibe un reto de gestión ambiental complejo y debe abordarlo siguiendo una metodología facilitada por el profesor.
 - El trabajo integra los marcos conceptuales vistos en las aproximaciones novedosas y las técnicas de gestión estudiadas en las clases temáticas.
 - Se fomenta el uso de herramientas como sistemas de inteligencia artificial para organizar información, elaborar borradores y resolver dudas, siempre bajo una supervisión crítica.
 - La salida de campo a Cardeña y Montoro forma parte de esta contribución activa, al implicar interacción directa con gestores y otros estudiantes de titulaciones afines (ingeniería forestal, ingeniería agrícola, máster), enriqueciendo la mirada interdisciplinar.
 
-### 4. Procedimientos de evaluación y calificación
-##### 4.1. Enfoque general de la evaluación
+### 2.3. Procedimientos de evaluación y calificación
+##### 2.3.1. Enfoque general de la evaluación
 - La asignatura pone un énfasis explícito en la evaluación continua, con el objetivo de evitar que el trabajo se acumule al final del cuatrimestre.
 - A lo largo del curso se establecen puntos de control intermedios calificables vinculados a las tareas principales (reto de gestión y exposición temática), de manera que el alumnado se vea acompañado y obligado a llevar la asignatura al día.
 - Se anima al estudiantado a solicitar retroalimentación formativa durante el proceso (por ejemplo, enviando borradores de trabajos) para mejorar antes de la entrega definitiva.
 
-##### 4.2. Instrumentos de evaluación y ponderaciones
+##### 2.3.2. Instrumentos de evaluación y ponderaciones
 | Instrumento | Descripción | Ponderación sobre la nota final |
 |------------|-------------|---------------------------------|
 | Reto de gestión socioecológica en grupo | Trabajo por proyectos ligado al Bloque 3, con entregas parciales y una entrega final que integran análisis del problema, propuesta de gestión y reflexión crítica. | 40%  |
 | Exposición temática en clase | Preparación y presentación en grupo de uno de los temas del Bloque 2, incluyendo fase de trabajo guiado y presentación oral en el aula. | 20%  |
 | Examen final individual | Prueba escrita basada en todos los objetivos de aprendizaje y contenidos trabajados en la asignatura, con formato similar al examen de segunda convocatoria de Ecología mencionado en clase. | 40%  |
 
-##### 4.3. Evaluación continua asociada a cada instrumento
+##### 2.3.3. Evaluación continua asociada a cada instrumento
 - En el reto de gestión se califican tanto las entregas parciales como el producto final, de forma que la nota refleja el proceso de trabajo además del resultado.
 - En la exposición temática se contempla una fase de preparación en la que el profesor proporciona orientación y puede revisar materiales antes de la presentación, lo que también forma parte de la evaluación continua.
 - El uso responsable de herramientas de apoyo (incluyendo IA) se considera un recurso legítimo dentro del proceso de aprendizaje, siempre que se mantenga la autoría intelectual del estudiantado.
@@ -210,7 +214,7 @@ Bloque aplicado centrado en el trabajo por proyectos en grupo.
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/archive/refs/tags/2025-2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_introduccion_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
